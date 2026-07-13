@@ -3,7 +3,8 @@ Salary prediction project using ensemble learning models such as Random Forest, 
 # Salary Prediction Using Ensemble Learning
 
 A machine learning project that predicts employee salaries using ensemble regression techniques. The project applies data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation to identify the most accurate salary prediction model.
-
+#Project PPT LINK:
+https://docs.google.com/presentation/d/1leAkCJMwtabCdYjXWNiHfDuQ8xnnCZcZo619C69pP1U/edit?usp=sharing
 ## Project Overview
 
 Salary prediction is a regression problem where the goal is to estimate an employee’s salary based on available input features such as experience, education, job role, age, location, and other relevant factors in the dataset.
